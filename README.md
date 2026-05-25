@@ -33,4 +33,4 @@ Construção de relatórios visuais para identificação de padrões de comporta
 ---
 
 ## Desenvolvido por
-Maria Luiza Rezende
+Maria Luiza P Rezende
